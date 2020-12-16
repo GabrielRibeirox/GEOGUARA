@@ -1,0 +1,14 @@
+{"type":"FeatureCollection","name":"Esportes_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+{"type":"Feature","properties":{"description":"Campo do Chico Vaz <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/mtP04><center/>","KML_FOLDER":"Campos de Futebol","Tipo":"Campos de Futebol e Quadras Poliesportivas"},"geometry":{"type":"Point","coordinates":[-45.179039499686461,-22.819375599619573]}},
+
+{"type":"Feature","properties":{"description":"Fazendinha – Jd. Do Vale <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/ewxN4><center/>","KML_FOLDER":"Campos de Futebol","Tipo":"Campos de Futebol e Quadras Poliesportivas"},"geometry":{"type":"Point","coordinates":[-45.18348629444484,-22.773514646515132]}},
+
+{"type":"Feature","properties":{"description":"Estádio Municipal Prof. Dario Rodrigues Leite <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/otBUZ><center/>","KML_FOLDER":"Campos de Futebol","Tipo":"Campos de Futebol"},"geometry":{"type":"Point","coordinates":[-45.185425999930686,-22.80726199988295]}},
+
+{"type":"Feature","properties":{"description":"Complexo Esportivo JOPESAFI – Ginásio de Esportes do Pedregulho <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/gnEW4><center/>","KML_FOLDER":"Quadras Poliesportivas","Tipo":"Campos de Futebol, Quadras Poliesportivas, Quadras de Areia,Pista de Atletismo, Pista de Skate e Cancha de Malha"},"geometry":{"type":"Point","coordinates":[-45.208235914832244,-22.800809713629807]}},
+
+{"type":"Feature","properties":{"description":"CEU - Centro de Artes e Esportes Unificados <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/fqzP8><center/>","KML_FOLDER":"Quadras Poliesportivas","Tipo":"Quadras Poliesportivas e Pista de skate"},"geometry":{"type":"Point","coordinates":[-45.181856896054327,-22.783958254864238]}},
+
+{"type":"Feature","properties":{"description":"Pq. Ecológico Dr. Anthero dos Santos <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/fsuU7><center/>","KML_FOLDER":"Pista de Caminhada","Tipo":"Pista de Caminhada, Quadras Poliesportivas e Quadras de Areia"},"geometry":{"type":"Point","coordinates":[-45.183771971874741,-22.804746627076799]}},
+
+{"type":"Feature","properties":{"description":"Bosque da Amizade <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/tEZ14><center/>","KML_FOLDER":"Pista de Caminhada","Tipo":"Pista de Caminhada"},"geometry":{"type":"Point","coordinates":[-45.188941199618007,-22.811968499929904]}}]}

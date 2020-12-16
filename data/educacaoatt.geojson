@@ -1,0 +1,102 @@
+{"type":"FeatureCollection","name":"Educao_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+    {"type":"Feature","properties":{"description":"Creche e PEM Dolores Rodrigues de Souza <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/qvDY7><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin00","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.16291631726611,-22.79481612452728 ]}},
+
+    {"type":"Feature","properties":{"description":"Creche e PEM Prof. Euterpe Quissak Bartelega <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/aEVW3><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.187630394418505,-22.78415637545984]}},
+
+    {"type":"Feature","properties":{"description":"Creche e PEM Prof. Virgulina Machado <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/mpyBZ><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.200559779886511,-22.780209256461553]}},
+
+    {"type":"Feature","properties":{"description":"Creche Mun. Maria Senna Bittencourt <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/nCQ38><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.195092428520717,-22.796546324783336]}},
+
+    {"type":"Feature","properties":{"description":"Creche Mun. Maria Tavares de Mello <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/ajp12><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.165752329377185,-22.783430394501703]}},
+
+    {"type":"Feature","properties":{"description":"Creche Mun. Prof. M. Ap. Barbosa da Costa <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/bfyQ6><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.19994725364528,-22.82069671333666 ]}},
+
+    {"type":"Feature","properties":{"description":"Creche Mun. Prof. Marlene do Nascimento <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/ortTW><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.239781377960455,-22.808994420520317]}},
+
+    {"type":"Feature","properties":{"description":"Creche Mun. Wanda de Mello Silva <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/fisFM><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.24768615889442,-22.78303132104246]}},
+
+
+    {"type":"Feature","properties":{"description":"Creche Mun. D. Luzia Modesto Reis <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/jxCDV><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_homegardenbusiness","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.19583674713057,-22.824256591631897]}},
+
+    {"type":"Feature","properties":{"description":"EMEF Prof. Alcina Soares Novaes <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/lnJV7><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_homegardenbusiness","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.181381678676296,-22.803513860086813]}},
+
+    {"type":"Feature","properties":{"description":"EMEF Prof. Maria Aparecida Broca Meirelles <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/lsAB4><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.200125242052295,-22.815960745812749]}},
+
+    {"type":"Feature","properties":{"description":"EMEF Prof. Ana Fausta de Moraes <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/oBJSU><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.2109966650402,-22.788853332719864]}},
+
+
+    {"type":"Feature","properties":{"description":"EMEF Prof. Heloísa Helena R. Alves Sanches <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/iCHN6><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.16443499359664,-22.779965556604825]}},
+
+    {"type":"Feature","properties":{"description":"EMEF Prof. Luiza de Castro Mittidieri <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/AV245><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.18634884942758,-22.818725694692418]}},
+
+
+    {"type":"Feature","properties":{"description":"EMEF Prof. M. Julia Antunes do A. Moreira <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/lqtZ9><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.18277922592618,-22.77744585133744]}}, 
+
+
+    {"type":"Feature","properties":{"description":"EMEF Prof. Virgílio Rosas da Silva <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/nqvW7><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.174560054841876,-22.807145172427418]}},
+
+
+    {"type":"Feature","properties":{"description":"EMEF Ramão Gomes Portão <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/hMR04><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.200686923344456,-22.781367389480184]}},
+
+
+    {"type":"Feature","properties":{"description":"EMEI Pro. João Roberto Guimarães <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/eB249><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin0","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.148180599566757,-22.775882218981469]}},
+
+
+    {"type":"Feature","properties":{"description":"EMEI Prof. Anna Fausta de Moraes <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/fjoX9><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin0","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.192036805853192,-22.821470269099546]}},
+
+
+    {"type":"Feature","properties":{"description":"EMEI Prof. Germano Antunes Figueiredo <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/hmAV6><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin0","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.18548671768687,-22.775606340966235]}},
+
+
+    {"type":"Feature","properties":{"description":"EMEI Prof. Thereza B. Leite Motta <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/oKPU9><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin0","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.1657341672038,-22.779250924931034]}},
+
+
+    {"type":"Feature","properties":{"description":"EMEIEF Fernando Alencar Pinto <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/bfltZ><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin0","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.24006004818383,-22.808422330783642]}},
+
+
+    {"type":"Feature","properties":{"description":"EMEIEF Prof. Aliete Ferreira Gonçalves <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/vxCY8><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin0","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.21012659118785,-22.76902983107806]}},
+
+
+    {"type":"Feature","properties":{"description":"EMEIEF Prof. André Freire <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/iqDPY><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin0","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.18138753834526,-22.75264481075627]}},
+
+
+{"type":"Feature","properties":{"description":"EMEIEF Prof. Deosdete Mendes França Silva <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/joEKS><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin0","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.270857361791052,-22.793123682729256]}},
+
+
+{"type":"Feature","properties":{"description":"EMEIEF Prof. Francisca de almeida Caloi <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/fghlr><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin0","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.357128246520553,-22.762750006849735]}},
+
+
+{"type":"Feature","properties":{"description":"EMEIEF Prof. João Mendes Filho <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/hrtGU><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin0","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.150237401421414,-22.78502578240026]}},
+
+
+{"type":"Feature","properties":{"description":"EMEIEF Prof. José augusto Antunes do Amaral <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/wEGX7><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin0","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.22081931023817,-22.79644382434687]}},
+
+
+{"type":"Feature","properties":{"description":"EMEIEF Prof. José Benedito Galhardo <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/oBQZ6><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin0","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.202072180712534,-22.796770494750046]}},
+
+
+{"type":"Feature","properties":{"description":"EMEIEF Prof. M. Conceição Freire Salles <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/cnDO9><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin0","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.24862557415,-22.782832056986667]}},
+
+
+{"type":"Feature","properties":{"description":"EMEIEF Prof. Zezé Figueiredo <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/gyIJY><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"m_ylw-pushpin0","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.19590781183885,-22.824619695251638]}},
+
+
+{"type":"Feature","properties":{"description":"EMEIEF Prof. Antônio Vieira Filho <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/ivFN6><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_homegardenbusiness","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.209346856217138,-22.792820679139282]}},
+
+
+{"type":"Feature","properties":{"description":"EMEIEF Prof. Antônio da Cruz Payão <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/nwR17><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_homegardenbusiness","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.092332948539735,-22.92158951533035]}},
+
+
+{"type":"Feature","properties":{"description":"EMEIEFI Prof. M. Carmelita de Moraes <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/adfKZ><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_homegardenbusiness","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.178130137755282,-22.797255593418654]}},
+
+{"type":"Feature","properties":{"description":"PEM Juscelene de Paula Santos <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/cmvwK><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_homegardenbusiness","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.207677007878168,-22.787117019323862]}},
+
+{"type":"Feature","properties":{"description":"PEM Prof. Genny de Castro Vergueiro <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/eLN18><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_homegardenbusiness","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.198806557212102,-22.815421459040127]}},
+
+
+{"type":"Feature","properties":{"description":"PEM Prof. M. José de Tolosa Cipro <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/rtSX3><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_homegardenbusiness","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.175051123747906,-22.808298374026382]}},
+
+
+{"type":"Feature","properties":{"description":"EMEFI Prof. Elvira Maria Giannico <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/klA45><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_homegardenbusiness","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.150454390776083,-22.776412421635406]}},
+
+{"type":"Feature","properties":{"description":"PEM Prof. M. Ap. Rodrigues Ribeiro <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/luBR8><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_homegardenbusiness","KML_FOLDER":"EDUCAÇÃO"},"geometry":{"type":"Point","coordinates":[-45.181267092827291,-22.802915129605122]}}]}

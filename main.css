@@ -1,0 +1,45 @@
+html, body {
+	min-height: 100%;
+}
+
+
+button {
+	position: relative;
+	background: #3498db;
+	border: 1px solid #2980b9;
+	color: #fff;
+	padding: 5px 10px;
+	font-size: 12px;
+	margin: 15px 0 0 110px;
+}
+
+#map {
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+}
+#legend {
+    margin:0px 0px 1px 0px;
+	position: relative;
+    z-index: 4;
+    background-color: #fff;
+    min-height: 200px;
+    min-width: 200px;
+}
+
+
+#layers {
+	z-index: 5;
+    padding: 8px 12px;
+	font-size: 14px;
+	right: 5px;
+	top: 390px;;
+}
+
+#layers > ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}

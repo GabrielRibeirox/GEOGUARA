@@ -1,0 +1,13 @@
+{"type": "FeatureCollection",
+"name": "UnidadesdeAssistenciaSocial_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME": "CRAS Centro", "ID": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -45.42776942646146,-23.640962813191862 ] } },
+{ "type": "Feature", "properties": { "NAME": "CRAS Parque do Sol", "ID": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 481186.684394866693765, 7479642.777992824092507 ] } },
+{ "type": "Feature", "properties": { "NAME": "CRAS Parque Sâo Francisco", "ID": 3.0 }, "geometry": { "type": "Point", "coordinates": [ 477656.983749790408183, 7478621.511102326214314 ] } },
+{ "type": "Feature", "properties": { "NAME": "CRAS Vila Paulista", "ID": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 482138.448295845242683, 7477906.015477403067052 ] } },
+{ "type": "Feature", "properties": { "NAME": "TELECENTRO", "ID": 5.0 }, "geometry": { "type": "Point", "coordinates": [ 479626.325664887437597, 7476926.038930399343371 ] } },
+{ "type": "Feature", "properties": { "NAME": "CIDAS", "ID": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 479954.129142172983848, 7476618.723170444369316 ] } },
+{ "type": "Feature", "properties": { "NAME": "CREAS", "ID": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 480416.061945511726663, 7476554.569679035805166 ] } }
+]
+}

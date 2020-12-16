@@ -1,0 +1,15 @@
+{
+  "name": "popup",
+  "dependencies": {
+    "ol": "6.4.3"
+  },
+  "devDependencies": {
+    "start": "parcel index.html",
+    "parcel": "1.11.0"
+  },
+  "scripts": {
+    "main":  "main.js",
+    "start": "parcel index.html",
+    "build": "parcel build --experimental-scope-hoisting --public-url . index.html"
+  }
+}

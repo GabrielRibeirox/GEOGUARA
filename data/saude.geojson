@@ -1,0 +1,77 @@
+{
+    "type":"FeatureCollection",
+    "name":"Saude_3",
+    "crs":{"type":"name","properties": {"name": "urn:ogc:def:crs:OGC:1.3:CRS84"}},
+    "features":[
+        {"type":"Feature","properties":{"description":"Hospital Santa Casa <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/fmozQ><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.191673999819486,-22.821778199944411]}},
+
+
+        {"type":"Feature","properties":{"description":"Hospital Frei Galvão <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/eyJR6><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.184326248198005,-22.814940718325346]}},
+
+
+        {"type":"Feature","properties":{"description":"Hospital Escola de Especialistas da Aeronáutica <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/iyFPT><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.220902912427206,-22.789028887155553]}},
+
+
+        {"type":"Feature","properties":{"description":"Hospital de Psiquiatria – Grupo e Fraternidade Irmão Altino <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/iuMVY><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.200438641920208,-22.816059583815889]}},
+
+
+        {"type":"Feature","properties":{"description":"Pronto Socorro Municipal <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/svzFW><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.184553028824411,-22.814617068199009]}},
+
+
+        {"type":"Feature","properties":{"description":"CAPS – Centro de Atenção Psicossocial <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/fjpF9><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.20015178546646,-22.816724475988501]}},
+
+
+        {"type":"Feature","properties":{"description":"AME – Assistência Médica Especializada <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/dGIJW><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.201432907102578,-22.80408456278699]}},
+
+
+        {"type":"Feature","properties":{"description":"Centro de Saúde <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/vAG69><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.193061589760831,-22.82042201993184]}},
+
+
+        {"type":"Feature","properties":{"description":"Serviço de Saúde Mental <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/abdpX><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.198432326252735,-22.818032017867065]}},
+
+
+        {"type":"Feature","properties":{"description":"Centro de Especialidades Odontológicas – Beira Rio <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/ixDGL><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.186539600261163,-22.794644000005938]}},
+
+
+        {"type":"Feature","properties":{"description":"Centro de Especialidades Odontológicas – Pq. S. Francisco <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/jvyMU><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.220740920604207,-22.800854140352463]}},
+
+
+        {"type":"Feature","properties":{"description":"SAMU – Eng. Neiva <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/dquM3><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.16467057943408,-22.78269745956031]}},
+
+
+        {"type":"Feature","properties":{"description":"SAMU –  Pq. S. Francisco <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/jvyMU><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.220350772435708,-22.800731094435019]}},
+
+
+        {"type":"Feature","properties":{"description":"UBS COHAB <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/ABGM6><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.17968083195531,-22.804252091331193]}},
+
+
+        {"type":"Feature","properties":{"description":"UBS Eng. Neiva <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/dquM3><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.166953699893973,-22.788200700303413]}},
+
+
+        {"type":"Feature","properties":{"description":"UBS Pq. S. Francisco <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/jvyMU><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.220647125478401,-22.800775785881811]}},
+
+
+        {"type":"Feature","properties":{"description":"UBS Oswaldo Cruz <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/pzBQ7><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.192029414802946,-22.821484244583687]}},
+
+
+        {"type":"Feature","properties":{"description":"UBS Campinho <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/bvRV2><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.179325372770236,-22.819927334172551]}},
+
+
+        {"type":"Feature","properties":{"description":"UBS Colônia <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/zACHR><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.182867655330902,-22.753213510908001]}},
+
+
+        {"type":"Feature","properties":{"description":"PSF São Manoel <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/cdqw6><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.212721654052139,-22.770945729112796]}},
+
+
+        {"type":"Feature","properties":{"description":"PSF Jardim do Vale <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/inDI0><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.186349366260693,-22.780023254335028]}},
+
+
+        {"type":"Feature","properties":{"description":"PSF Vista Alegre <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/hqCJ9><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.150571967446695,-22.784984798181885]}},
+
+
+        {"type":"Feature","properties":{"description":"PSF São Dimas <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/cduDH><center/>","LAYER":"Unknown Point Feature","KML_STYLE":"msn_hospitals","KML_FOLDER":"Saúde"},"geometry":{"type":"Point","coordinates":[-45.197508268554849,-22.784202564350686]}},
+
+
+        {"type":"Feature","properties":{"description":"UBS Pedrinha <br><br><center><img src=https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://encurtador.com.br/gJTU8><center/>","LAYER":null,"KML_STYLE":null,"KML_FOLDER":null},"geometry":{"type":"Point","coordinates":[-45.35646298131779,-22.751965087341819]}}
+    ]
+}

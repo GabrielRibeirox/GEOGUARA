@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "infocamadas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "nome": "Catedral de Santo Antônio", "endereco": "Praça Santo Antônio, 300\/ Centro.", "nivel": 1, "foto": "igreja_santo_antonio" }, "geometry": { "type": "Point", "coordinates": [ -45.192293987389199, -22.817181837991853 ] } },
+{ "type": "Feature", "properties": { "id": 2, "nome": "Casa de Frei Galvão", "endereco": "Rua Frei Galvão, nº 78", "nivel": 2, "foto": "casa_frei_galvao" }, "geometry": { "type": "Point", "coordinates": [ -45.192966229135273, -22.817460864253128 ] } },
+{ "type": "Feature", "properties": { "id": 3, "nome": "Cavalaria de São Benedito e São Gonçalo", "endereco": "Praça São Gonçalo", "nivel": 3, "foto": "cavalaria" }, "geometry": { "type": "Point", "coordinates": [ -45.187767698127857, -22.816382165303352 ] } },
+{ "type": "Feature", "properties": { "id": 4, "nome": "Estação Ferroviária", "endereco": "Praça Condessa de Frontin – Centro", "nivel": 4, "foto": "estacao_ferroviaria" }, "geometry": { "type": "Point", "coordinates": [ -45.191397668449667, -22.813988559053531 ] } },
+{ "type": "Feature", "properties": { "id": 5, "nome": "Gruta de Nossa Senhora de Lourdes", "endereco": "Avenida João Pessoa, 677 – Pedregulho", "nivel": 5, "foto": "gruta_nossa_senhora_de_lourdes" }, "geometry": { "type": "Point", "coordinates": [ -45.200788103259292, -22.805686682203415 ] } },
+{ "type": "Feature", "properties": { "id": 6, "nome": "Escola de Especialistas de Aeronáutica - EEAR", "endereco": "Av. Brg. Ademar Lírio, S\/N - Pedregulho, Guaratinguetá - SP", "nivel": 6, "foto": "eear" }, "geometry": { "type": "Point", "coordinates": [ -45.216900247832442, -22.790697623900108 ] } },
+{ "type": "Feature", "properties": { "id": 7, "nome": "Gomeral", "endereco": "25 km do centro da cidade", "nivel": 7, "foto": "gomeral" }, "geometry": { "type": "Point", "coordinates": [ -45.383381378003065, -22.737965591316357 ] } }
+]
+}
