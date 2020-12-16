@@ -314,9 +314,9 @@ var placement = 'point';
     return style;
 };
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-////                                                                      ESTILOS PARA CAMADAS VETORIAIS
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+///                                                                    ESTILOS PARA CAMADAS VETORIAIS
+///----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 var iapoio = new ol.style.Style({
   image: new ol.style.Icon(/** @type {olx.style.IconOptions} */ ({
     anchor: [0.5, 0.5],
@@ -391,9 +391,9 @@ var iapoio = new ol.style.Style({
 });
 
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// DECLARAÇÃO DAS CAMADAS
-
+///----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+///                                                                             DECLARAÇÃO DAS CAMADAS
+///----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   var styleFunction = function(feature) {
         var color = colors['blue'];
         var style = styleCache[color];
@@ -547,7 +547,8 @@ var iapoio = new ol.style.Style({
     });
     participaGuara.setVisible(false);
 
-///------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ///                                                                                 CAMADAS VETORIZADAS
+///------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ///                                   
+///                                                                      	CAMADAS VETORIZADAS
 ///--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     var vetor = new ol.layer.Vector({
          title: 'Maravilhas de Guará',
@@ -641,6 +642,7 @@ var educacao = new ol.layer.Image({
     });
     vcultura.setVisible(false);
     
+	
 ////  layer legenda
 
    var lcultura = new ol.layer.Image({
@@ -675,8 +677,9 @@ var educacao = new ol.layer.Image({
     vsocial.setVisible(false);
 
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-////////// GRUPOS MENU 
+///
+/// GRUPOS MENU 
+  
     overlays = new ol.layer.Group({
     title: 'Camadas',
     layers: [participaGuara,vetor],
@@ -693,7 +696,8 @@ var educacao = new ol.layer.Image({
 	});
 
 /// FULLAYER  é um grupo "invisível" de camadas, criado para conter todas as layers, sempre que for fazer um vetor que percorra todas as layers, este grupo pode ser utilizado
-    fullayer = new ol.layer.Group({
+  
+	fullayer = new ol.layer.Group({
         layers: [participaGuara,vetor,limite_bairros,vcultura,vsaude,vesporte,veducacao,vsocial]
     });
 
@@ -714,8 +718,9 @@ var educacao = new ol.layer.Image({
 
 
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///
 //  POPUP PONTOS 7 MARAVILHAS
+	
     var container = document.getElementById('popup');
     var content = document.getElementById('popup-content');
     var closer = document.getElementById('popup-closer');
@@ -839,6 +844,7 @@ $('button').click(function() {
             }
           }
   //// Este é o código utilizado para puxar uma legenda do GEOSERVER
+	    
      $('#legend').empty().html('<div class="container"><center><b>'+titulo+'</center><br/><img src="http://geoguara.ddns.net:8080/geoserver/GeoGuara/wms?REQUEST=GetLegendGraphic&VERSION=1.1.0&FORMAT=image/png&WIDTH=42&HEIGHT=51&LAYER='+img+'&bbox=-124.73142200000001,24.955967,-66.969849,49.371735&srcwidth=768&srcheight=330&srs=EPSG:4326&fontAntiAliasing:true"></div>');
 });
 });
@@ -846,6 +852,7 @@ $('button').click(function() {
 var status=1;
 
 //    SUMIR VIDEO 
+	
 $('.closex').click(function(event){
         $('#mydiv').fadeOut();
         event.preventDefault();
@@ -855,6 +862,7 @@ $('.closex').click(function(event){
 
 
 //    CHAMAR VÍDEO AO CLICK DO BOTÃO 
+	
 $(document).ready(function(){
   $('.btn2').click(function(){
 if(status==0){
@@ -871,16 +879,14 @@ if(status==0){
 
 
 
-//     TOOLTIPS
+//     TOOLTIPS(balão que mostra o nome do botão)
+	
 $(function () {
   $('[data-tt="tooltip"]').tooltip()
   $('#button1').tooltip('hide')
   $('#button2').tooltip('show')
   $('#button3').tooltip('hide')
 })
-
-
-
 
 
 dragElement(document.getElementById("mydiv"));
