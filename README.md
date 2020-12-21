@@ -8,5 +8,8 @@ Foi utilizado OPENLAYERS,GEOSERVER,HTML,CSS,JS e JQUERY.
 
 
 desenvolvedor: Gabriel Ribeiro
+gabrielribeirofatec@gmail.com
 http://geoguara.epizy.com/
+
+
  
