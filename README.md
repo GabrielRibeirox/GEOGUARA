@@ -6,6 +6,11 @@ As layers foram criadas no QGIS e upados no PostgreSQL,
 Outros recursos utilizados: OPENLAYERS,GEOSERVER,HTML,CSS,JS e JQUERY.
 
 
+![image](geoguara.png)
+![image](geoguara1.png)
+
+
+
 desenvolvedor: Gabriel Ribeiro
 gabrielribeirofatec@gmail.com
 http://geoguara.epizy.com/
