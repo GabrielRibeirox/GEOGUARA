@@ -7,7 +7,7 @@ Outros recursos utilizados: OPENLAYERS,GEOSERVER,HTML,CSS,JS e JQUERY.
 
 
 ![image](geoguara.png)
-![image](geoguara1.png)
+![image](geoguara2.png)
 
 
 
